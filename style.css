@@ -1,0 +1,24 @@
+body {
+    font-family: 'Montserrat';
+    margin: 0;
+    background-color: black;
+    color: #fff;
+    overflow: hidden;
+}
+
+.main {
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    background-color: red;
+}
+
+.main-containt {
+    background-color: blue;
+}
+
+.music-player {
+    background-color: yellow;
+}
